@@ -1,0 +1,155 @@
+
+/* override */
+
+.x-btn.x-unselectable.x-btn-default-large {
+    background: #ebebeb;
+    border: 1px solid #ebebeb;
+}
+
+.x-btn.x-unselectable.x-btn-default-large:hover {
+    background: #fefefe;
+    border: 1px solid #ccc;
+}
+
+.x-btn.x-unselectable.x-item-disabled.x-btn-default-large.x-btn-disabled {
+    background: #ebebeb;
+    border: 1px solid #ebebeb;
+}
+
+/* custom css */
+
+.xtion-app-name {
+    color: #fff;
+    font-size: 16px;
+    padding-left: 12px;
+    padding-right: 8px;
+    padding-bottom: 12px;
+    padding-top: 12px;
+}
+
+.xtion-app-name-support {
+    background: #5ecb2e;
+    font-weight: bold;
+    color: #fff;
+    padding: 4px;
+    border-radius: 3px;
+}
+
+.xtion-app-avatar {
+    width: 24px;
+    border-radius: 4px;
+    cursor: pointer;
+    display: inline;
+}
+
+.xtion-app-user {
+    font-size: 14px;
+    padding-right: 16px;
+}
+
+.xtion-toolbar {
+    background-image: url("../images/dark_background_dashed.png");
+    border-bottom: 2px solid #F30000;
+    color: #fff;
+    margin-bottom: 4px;
+    padding: 0px;
+    box-shadow: 0px 0px 8px #000;
+}
+
+.xtion-app-nav-btn {
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.xtion-ico {
+    width: 16px;
+    height: 16px;
+    opacity: 1!important;
+    content: ' ';
+}
+
+.xtion-btn {
+    margin: auto;
+    width: 16px;
+    height: 16px;
+    opacity: 1!important;
+    content: ' ';
+}
+
+.ic-home {
+    background-image: url("../images/icons/ic_home.png")!important;
+}
+
+.ic-document {
+    background-image: url("../images/icons/ic_document.png")!important;
+}
+
+.ic-module {
+    background-image: url("../images/icons/ic_module.png")!important;
+}
+
+.ic-navigation {
+    background-image: url("../images/icons/ic_navigation.png")!important;
+}
+
+.ic-window-blue {
+    background-image: url("../images/icons/ic_window_blue.png")!important;
+}
+
+.ic-report {
+    background-image: url("../images/icons/ic_box_document.png")!important;
+}
+
+.ic-box {
+    background-image: url("../images/icons/ic_box.png")!important;
+}
+
+.ic-create {
+    background-image: url("../images/icons/ic_add_btn.png")!important;
+    background-position: center center;
+}
+
+.ic-update {
+    background-image: url("../images/icons/ic_edit.png")!important;
+    background-position: center center;
+}
+
+.ic-update-disable {
+    background-image: url("../images/icons/ic_edit_disable.png")!important;
+    background-position: center center;
+}
+
+.ic-remove {
+    background-image: url("../images/icons/ic_remove.png")!important;
+    background-position: center center;
+}
+
+.ic-remove-disable {
+    background-image: url("../images/icons/ic_remove_disable.png")!important;
+    background-position: center center;
+}
+
+.ic-refresh {
+    background-image: url("../images/icons/ic_refresh.png")!important;
+    background-position: center center;
+}
+
+.ic-calendar {
+    background-image: url("../images/icons/ic_calendar_256.png")!important;
+    background-position: center center;
+}
+
+.ic-print {
+    background-image: url("../images/icons/ic_print.png")!important;
+    background-position: center center;
+}
+
+.ic-export {
+    background-image: url("../images/icons/ic_export.png")!important;
+    background-position: center center;
+}
+
+.ic-detail {
+    background-image: url("../images/icons/ic_preview.png")!important;
+    background-position: center center;
+}

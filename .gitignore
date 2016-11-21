@@ -1,0 +1,3 @@
+session/*
+framework/app/config/config.php
+framework/app/config/database.php
